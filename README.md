@@ -24,3 +24,13 @@ Screenshot of exercise tracking chart
 
 # Install dependencies if haven't already
 !pip install mediapipe opencv-python
+
+The MediaPipe Pose Landmarker task requires the mediapipe PyPI package
+!python -m pip install mediapipe
+
+Import the following classes to access the Pose Landmarker task functions:
+import mediapipe as mp
+from mediapipe.tasks import python
+from mediapipe.tasks.python import vision
+
+
