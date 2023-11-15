@@ -18,5 +18,9 @@ After your exercise session:
 1. Press 'q' to stop the program.
 2. A chart displaying your performance will appear at the bottom of the notebook.
 
+Screenshot of exercise tracking chart
+
+
+
 # Install dependencies if haven't already
 !pip install mediapipe opencv-python
