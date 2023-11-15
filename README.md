@@ -30,8 +30,8 @@ The MediaPipe Pose Landmarker task requires the mediapipe PyPI package:
     !python -m pip install mediapipe
 
 Import the following classes to access the Pose Landmarker task functions:
-    import mediapipe as mp
-    from mediapipe.tasks import 
-    from mediapipe.tasks.python import vision
+  import mediapipe as mp
+  from mediapipe.tasks import 
+  from mediapipe.tasks.python import vision
 
 
