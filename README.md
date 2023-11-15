@@ -19,8 +19,7 @@ After your exercise session:
 2. A chart displaying your performance will appear at the bottom of the notebook.
 
 Screenshot of exercise tracking chart
-
-
+![optimal_fitness](https://github.com/HeshiyaGaya3/optimal_fitness/assets/114100105/b8c407eb-3844-44ad-9e3b-eec6927fcf3c)
 
 # Install dependencies if haven't already
 !pip install mediapipe opencv-python
