@@ -1,4 +1,4 @@
-OPTIMAL FITNESS  
+# OPTIMAL FITNESS  
 This is a AI virtual gym trainer
 Just like a personal gym trainer, this aims to help you keep track of the number of exercise repetition you performed, along with a pose correction feedback mechanism to correct your pose if needed.
 At the end of your exercise, a chart will be displayed to show you your performance throughout the exercise. 📈
