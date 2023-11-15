@@ -23,12 +23,15 @@ Screenshot of exercise tracking chart
 ![optimal_fitness](https://github.com/HeshiyaGaya3/optimal_fitness/assets/114100105/b8c407eb-3844-44ad-9e3b-eec6927fcf3c)
 
 # Install dependencies if haven't already
+
 !pip install mediapipe opencv-python
 
 The MediaPipe Pose Landmarker task requires the mediapipe PyPI package
+
 !python -m pip install mediapipe
 
-Import the following classes to access the Pose Landmarker task functions:
+Import the following classes to access the Pose Landmarker task functions
+
 import mediapipe as mp
 from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
